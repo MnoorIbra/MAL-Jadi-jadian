@@ -1,0 +1,17 @@
+.TopAnime {
+    text-align: center;
+  }
+.headerDesc {
+  font-size: 14px;
+  text-align: center;
+}
+
+.avatar{
+  display: flex;
+  justify-content: center;
+}
+  
+.container {
+  padding-bottom: 5.5rem;
+}
+  

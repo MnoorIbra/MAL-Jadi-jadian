@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+  
+  }
+
+
+  
+  .wrapper {
+    
+    width: 100%;
+    background-color: white;
+    color: black;
+    position: relative;
+  }
