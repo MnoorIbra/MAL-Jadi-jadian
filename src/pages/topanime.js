@@ -29,7 +29,7 @@ export default function TopAnime() {
   };
 
   return (
-    <div className="container">
+    <div className="container-view">
       <PopularAnimeList />
     </div>
   );

@@ -34,7 +34,7 @@ export default function TopManga(){
   }
 
   return(
-    <div className='container'>
+    <div className='container-view'>
 <PopularMangaList/>
     </div>
     

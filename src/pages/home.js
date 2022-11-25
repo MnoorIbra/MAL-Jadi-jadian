@@ -9,18 +9,18 @@ export default function Home(){
         <img src="/logomal.png" className="app-logo" />
         <h2 className="title">MAL Jadi-jadian</h2>
       </header>
-      <div className="container">
-        <div className="wrapper">
-          <NavLink to="/anime" className="app-link">
+      <div className="container-home">
+        <div className="wrapper-home">
+          <NavLink to="/anime" className="link app-link">
             Anime
           </NavLink>
         </div>
-        <div className="wrapper">
+        <div className="wrapper-home">
           <NavLink to="/manga" className="app-link">
             Manga
           </NavLink>
         </div>
-        <div className="wrapper">
+        <div className="wrapper-home">
           <NavLink to="/about" className="app-link">
             About
           </NavLink>

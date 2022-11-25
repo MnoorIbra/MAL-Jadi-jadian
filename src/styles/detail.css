@@ -1,20 +1,29 @@
-.container {
-    width: 100%;
+.container-detail {
+    
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     flex-direction: row;
-    
+    padding-bottom: 7.5rem;
+    padding-top: 5rem;
+    text-align: center;
   
   }
 
 
   
-  .wrapper {
+  .detail-wrapper {
     
-    width: 100%;
+    
     background-color: white;
     color: black;
     position: relative;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .image{
+    height: 300px;
   }
