@@ -21,7 +21,7 @@ export default function Home(){
           </NavLink>
         </div>
         <div className="wrapper-home">
-          <NavLink to="/about" className="app-link">
+          <NavLink to="/tentang" className="app-link">
             About
           </NavLink>
         </div>
