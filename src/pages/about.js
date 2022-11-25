@@ -6,7 +6,7 @@ export default function About() {
     <div className="about-container">
       <div className="about-wrapper">
       <h1>About</h1>
-      <img src="/bocchi.gif"/>
+      <img src="https://media.tenor.com/rc8puALGJfgAAAAd/bocchi-the-rock-hitori-gotou.gif"/>
       <p>Hallo nama saya Muhammad Noor Ibrahim mahasiswa teknik komputer, saya membuat program ini untuk memenuhi tugas praktikum PPB. 
       Baru pertama ini saya membuat program dengan framework react.
       js dari awal. Program ini dibuat juga dengan public API dari situes jikan.moe
